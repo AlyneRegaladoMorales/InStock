@@ -111,7 +111,7 @@ header .navbar {
 .grid-banner {
   /* background-image: linear-gradient(#bb56b3, #523053, #3b2150); */
   /**/
-  background-image: url(/Img/banner2.jpg);
+  background-image: url(./Img/banner2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -655,7 +655,7 @@ td {
 
 /*HTML INIISCIAR SESOIPM */
 .bodyInisiarSesion {
-  background-image: url("/Img/fondo.jpg");
+  background-image: url("./Img/fondo.jpg");
 
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -875,7 +875,7 @@ input {
 }
 /*HTML REGISTRO*/
 .bodyRegistro{
-  background-image: url(/Img/fondo2.jpg);
+  background-image: url(./Img/fondo2.jpg);
   
 }
 
